@@ -1,5 +1,4 @@
 //Author:Animesh Dutta (Ananya Birla)
-
 (function($) {
 $(document).ready(function(){
 
